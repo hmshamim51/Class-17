@@ -1,0 +1,179 @@
+
+
+@font-face {
+    font-family: 'Garet';
+    src: url('fonts/Garet-Heavy.eot');
+    src: url('fonts/Garet-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Garet-Heavy.woff2') format('woff2'),
+        url('fonts/Garet-Heavy.woff') format('woff'),
+        url('fonts/Garet-Heavy.ttf') format('truetype'),
+        url('fonts/Garet-Heavy.svg#Garet-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+.tv {
+    color: white;
+    font-size: 50px;
+    padding: 30px;
+    border-radius: 50%;
+    background-color: rgb(218, 32, 57);
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.tv:hover {
+    background-color: green;
+    color: black;
+}
+
+
+
+
+.amaricon {
+    color: white;
+    font-size: 50px;
+    padding: 30px;
+    border-radius: 50%;
+    background-color: rgb(218, 32, 57);
+    display: inline-block;
+}
+
+.amaricon:hover {
+    background-color: green;
+    color: black;
+}
+
+
+
+
+.fb {
+    color: blue;
+    font-size: 50px;
+    padding: 30px;
+    border-radius: 30%;
+    background-color: black;
+    display: inline-block;
+}
+
+.fb:hover {
+    background-color: blue;
+    color: black;
+}
+
+.love {
+    color: red;
+    font-size: 50px;
+    padding: 30px;
+    border-radius: 30%;
+    background-color: skyblue;
+    display: inline-block;
+}
+
+.love:hover {
+    background-color: blue;
+    color: black;
+}
+
+
+
+.man {
+    color: yellow;
+    font-size: 50px;
+    padding: 30px;
+    border-radius: 30%;
+    background-color: green;
+    display: inline-block;
+}
+
+.man:hover {
+    background-color: blue;
+    color: black;
+}
+
+
+.social-profile a {
+    text-decoration: none;
+    background-image: url(image/social-image.png);
+    width: 55px;
+    height: 55px;
+    display: inline-block;
+    margin-right: 30px;
+    background-position: -13px -11px;
+    text-indent: 99999px;
+    transition: 0.5s all ease-out;
+}
+.social-profile a:hover {
+    background-position: -16px -93px;
+    transition: 0.5s all ease-out;
+}
+
+
+.social-profile a.twitter {
+    background-position: -93px -13px;
+}
+.social-profile a.twitter:hover {
+    background-position: -93px -91px;
+}
+
+
+.social-profile a.instragram {
+    background-position: -173px -13px;
+}
+.social-profile a.instragram:hover {
+    background-position: -174px -93px;
+}
+
+
+.social-profile a.messenger {
+    background-position: -250px -13px;
+}
+.social-profile a.messenger:hover {
+    background-position: -252px -91px;
+}
+
+
+.social-profile a.youtube {
+    background-position: -330px -13px;
+}
+.social-profile a.youtube:hover {
+    background-position: -330px -91px;
+}
+
+
+.social-profile a.whatsapp {
+    background-position: -405px -13px;
+}
+.social-profile a.whatsapp:hover {
+    background-position: -405px -91px;
+}
+
+
+.social-profile a.skype {
+    background-position: -485px -13px;
+}
+.social-profile a.skype:hover {
+    background-position: -485px -91px;
+}
+
+
+
+.heading {
+
+}
+
+.heading h2 {
+    font-family: Fasthand;
+
+}
+
+.heading p {
+font-family: garet;
+font-weight: 900;
+}
